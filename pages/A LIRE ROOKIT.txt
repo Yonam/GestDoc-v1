@@ -1,0 +1,23 @@
+## README For Template admin
+## commentaire: ici sera laisse un petit resume sur les modifications effectuees sur le code source
+###########################################################################################
+
+
+##By Yonam
+## date 29/06/2017
+## at 11:10 AM
+
+Interface V1
+	Template de base realise.
+	le menu de l'interface normale: ../menu.php
+	le menu de l'interface d'admin: ../menuAdmin.php
+	connexion a la base : ../connexionDB.php
+	page par defaut : ../pages/generiques/login.php
+	page d'accueil apres identification : ../pages/generique/index.php
+
+	les autres pages html pouront etre utilisees a titre de modele pour les formulaires, les 
+	tableaux, les graphiques ou aussi les icones a utiliser 
+
+</merci>
+###########################################################################################
+

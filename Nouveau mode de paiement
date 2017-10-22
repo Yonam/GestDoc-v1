@@ -1,0 +1,18 @@
+Nouveau mod ede paiement
+
+Les cheques pqyes
+
+ce sont les paiemenents pour les personnes qui viennent en groupe comme inam
+
+le client beneficie d'un taux paye par LE SOUSCRIPTEUR: un produit est paye donc par deux entites. les pourcentages different selon les familles de produits dans le contrat (50% pour certains , 10% pour dautre)
+il faudra donc penser a renseigner les differentes taux de reductions par rapport a une categorie de produit
+
+le souscripteur peut faire des regroupements de familles qui seront pas forcement existantes chez le pharmacien.
+
+Notre logiciel fonctionnera en terme de familles.
+un produit a une et une seule famille
+
+
+## Gesttion de peremption
+Elles seront gerees a l'entree en stock
+

@@ -1,0 +1,13 @@
+1- Login
+Page à corriger par yonam 
+2-Gestion de l'authentification
+yonam gere l'authentification
+3-Acceuil 
+rodrigue gère l'acceuil et le menu
+4- ouvrir journee
+arrêt de caisse et controle ouverture avec message
+5-Liste des journees de caisse
+Eugenie doit gerer les boutons Exporter et imprimer                                              
+Rodrigue s'occupe des boutons Reouv - Arret - cloture avec des pop ups
+
+6- 
